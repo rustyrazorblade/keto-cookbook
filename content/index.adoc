@@ -9,6 +9,10 @@ include::chapters/03_bread/index.adoc[]
 include::chapters/04_appetizers_and_snacks/index.adoc[]
 include::chapters/06_meat/index.adoc[]
 include::chapters/07_veggies/index.adoc[]
+include::chapters/08_salads/index.adoc[]
+include::chapters/09_sauces/index.adoc[]
+include::chapters/10_sides/index.adoc[]
 include::chapters/14_dessert/index.adoc[]
 include::chapters/15_drinks/index.adoc[]
+
 
