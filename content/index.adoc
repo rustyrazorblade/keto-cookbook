@@ -10,5 +10,5 @@ include::chapters/04_appetizers_and_snacks/index.adoc[]
 include::chapters/06_meat/index.adoc[]
 include::chapters/07_veggies/index.adoc[]
 include::chapters/08_dessert/index.adoc[]
-include::chapters/09_drinks/index.adoc[]
+include::chapters/15_drinks/index.adoc[]
 
