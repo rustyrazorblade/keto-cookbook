@@ -2,6 +2,9 @@
 :numbered:
 :icons: font
 :sectanchors:
+:doctype: book
+
+= The Book
 
 include::chapters/01_intro/index.adoc[]
 include::chapters/02_breakfast/index.adoc[]

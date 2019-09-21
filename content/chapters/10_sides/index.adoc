@@ -1,7 +1,8 @@
-= Sides
+
+== Sides
 
 
-== Cole Slaw
+=== Cole Slaw
 
 * 12 ounces (½ small) of Green Cabbage, thinly sliced
 * 6 ounces (¼ small) of Red Cabbage, thinly sliced

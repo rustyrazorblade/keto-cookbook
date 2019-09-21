@@ -1,6 +1,7 @@
-= Breakfast
 
-== Caveman Keto Almond Buns
+== Breakfast
+
+=== Caveman Keto Almond Buns
 
 *Ingredients*
 
@@ -21,11 +22,11 @@
 . Grab a muffin tin or preferably a muffin top pan and pour out the batter evenly, this recipe makes approximately 6 servings in a muffin top pan.
 . Bake at 350F/175C for approximately 15 minutes or until golden brown, and you're done-ski.  Burgers, pulled pork sandwiches, and eggs benny await in all their keto glory.
 
-== Pancakes
+=== Pancakes
 
-== Almond Flour Based
+=== Almond Flour Based
 
-== Coconut Flour Based
+=== Coconut Flour Based
 
 
-== Waffles
+=== Waffles

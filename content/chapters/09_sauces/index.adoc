@@ -1,6 +1,7 @@
-= Sauces
 
-== Garlic Yogurt Sauce
+== Sauces
+
+=== Garlic Yogurt Sauce
 
 * 1 cup fat free Greek yogurt
 * 8 garlic cloves
